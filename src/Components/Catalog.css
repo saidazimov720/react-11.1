@@ -1,0 +1,24 @@
+
+.catalog-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .catalog-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .catalog-card h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .catalog-card p {
+    font-size: 16px;
+    color: #555;
+  }
+  
